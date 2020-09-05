@@ -1,0 +1,64 @@
+/* Custom Button */
+.btn {
+    border-radius: 20px !important;
+}
+
+.btn:hover{
+    box-shadow: 0 0 20px 1px #babab6 !important;
+}
+
+.btn:focus{
+    box-shadow: none !important;
+}
+
+/* Brown */
+.btn-brown {
+    background: #964b00 !important;
+    border: #964b00 !important;
+    color: #ffffff !important;
+}
+
+.btn-brown:hover {
+    background: #964b00 !important;
+    color: #ffffff !important;
+}
+
+.btn-brown-outline {
+    border-color: #964b00 !important;
+    color: #964b00 !important;
+}
+
+.btn-brown-outline:hover {
+    background: #964b00 !important;
+    color: #ffffff !important;
+}
+
+.btn-hover-brown {
+    border-color: #b5681b !important;
+    background: #b5681b !important;
+    color: #ffffff !important;
+}
+
+.btn-hover-brown:hover {
+    border-color: #964b00 !important;
+    background: #964b00 !important;
+    color: #ffffff !important;
+    box-shadow: none !important;
+}
+
+/* Peach */
+.btn-peach {
+    background: #c95b57 !important;
+    border: #f98c88 !important;
+    color: #ffffff !important;
+}
+
+.btn-peach-outline {
+    border-color: #f98c88 !important;
+    color: #f98c88 !important;
+}
+
+.btn-peach-outline:hover {
+    background: #f98c88 !important;
+    color: #ffffff !important;
+}

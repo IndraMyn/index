@@ -1,0 +1,15 @@
+.card-shadow:hover{
+    border: none;
+    box-shadow: 0 0 20px 5px #babab6 !important;
+}
+
+.card-default {
+    border-radius: 10px !important;
+}
+
+.card-default .card-header {
+    color: #ffffff;
+    background: #964b00;
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+}
